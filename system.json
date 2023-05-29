@@ -88,7 +88,7 @@
   "gridDistance": 1,
   "gridUnits": "m",
   "url": "https://github.com/superseva/mutant-year-zero",
-  "manifest": "https://github.com/superseva/mutant-year-zero/releases/latest/download/system.json",
+  "manifest": "https://raw.githubusercontent.com/Ianmward/mutant-year-zero/master/system.json",
   "download": "https://github.com/superseva/mutant-year-zero/releases/download/v10.0.13/mutant-year-zero.zip",
   "license": "LICENSE"
 }
